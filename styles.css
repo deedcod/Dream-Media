@@ -207,6 +207,9 @@ body::before {
     background: #000;
 }
 
+.social-icons a[aria-label="google-map-icon"] {
+   background: #000;
+}
 .social-icons a:hover {
     transform: scale(1.1);
 }
