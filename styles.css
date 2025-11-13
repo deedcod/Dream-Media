@@ -210,6 +210,7 @@ body::before {
 .social-icons a[aria-label="google-map-icon"] {
    background: #000;
 }
+/* hello word */
 .social-icons a:hover {
     transform: scale(1.1);
 }
@@ -230,3 +231,4 @@ body::before {
     .brand-en { font-size: 26px; }
     .brand-ar { font-size: 18px; }
 }
+
